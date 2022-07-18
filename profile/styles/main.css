@@ -1,0 +1,131 @@
+.blue- {
+  background-color: #44b1f4;
+}
+
+.pink {
+  background-color: palevioletred;
+}
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
+}
+
+.bg-light-brown {
+  background-color: #ead1cc;
+}
+
+.bg-dark-brown {
+  background-color: #bd9281;
+}
+
+.bg-light-gray {
+  background-color: #93a5af;
+}
+
+.bg-dark-gray {
+  background-color: #4c576d;
+}
+
+.badge-light {
+  border: 1.5px solid #93a5af;
+  color: black;
+}
+
+.badge-dark {
+  border: 1.5px solid #93a5af;
+  color: white;
+}
+
+.light-border {
+  border: 5px solid white;
+}
+
+.dark-border {
+  border: 5px solid #151f2b;
+}
+
+#select {
+  width: 20vw;
+}
+
+#check-theme {
+  padding-right: 1.7vw;
+}
+
+#cover {
+  height: 14vw;
+  /* position: absolute; */
+}
+
+.profile-img-circle {
+  height: 12vw;
+  width: 12vw;
+  border-radius: 50% 50%;
+  position: relative;
+  z-index: 5;
+  bottom: 6vw;
+  left: 1vw;
+}
+
+.profile-img-dimentions {
+  height: 12vw;
+  width: 12vw;
+  border-radius: 50% 50%;
+}
+
+#edit {
+  position: relative;
+  z-index: 5;
+  bottom: 12vw;
+  left: 56vw;
+}
+
+#profile-name {
+  position: relative;
+  z-index: 5;
+  bottom: 7vw;
+  left: 1vw;
+}
+
+.position {
+  position: relative;
+  z-index: 5;
+  bottom: 7vw;
+  left: 1vw;
+}
+
+.numbers {
+  color: black;
+}
+
+hr {
+  margin: 0;
+}
+
+#sm-profile-pic {
+  height: 6vw;
+  width: 6vw;
+  border-radius: 50% 50%;
+  position: relative;
+  z-index: 5;
+  bottom: 6vw;
+  left: 1vw;
+}
+
+.sm-profile-img-dimentions {
+  height: 6vw;
+  width: 6vw;
+  border-radius: 50% 50%;
+}
+
+#footer-right {
+  margin-top: -4vw;
+}
+
+#dots {
+  margin-left: 25vw;
+}
